@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  padding: 20px;
+  transition: background-color 0.3s ease;
+}
+
+.night-mode {
+  background-color: black;
+  color: white;
+}
+
+.buttons-container {
+  margin-bottom: 20px;
+}
+
+button {
+  margin-right: 10px;
+}
+
+.display-container p {
+  font-size: 24px;
+}
